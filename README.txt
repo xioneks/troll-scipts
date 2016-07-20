@@ -30,11 +30,10 @@ What the AutoHotkey script does
 
     2.1. First, it deactivates the hotkey from activating the script again (aka 'Suspend' the hotkey). This is to prevent the 'unsuspecting victims' from pinpointing the exact hotkey. As without the 'Suspend', pressing the hotkey twice will activate the script twice.
 
-3. After a few moments (189000 milliseconds), it runs the website selected
+3. After a few moments (189000 milliseconds), it runs the website selected (default website : http://www.omfgdogs.com/).
 
 4. After a few moments (5000 milliseconds), the script closes/kill itself and won't appear in the tray icons in the taskbar
 
-(default website : http://www.omfgdogs.com/)
 
 
 RECOMMENDED : Put this in the Windows 'Startup' folder
