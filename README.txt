@@ -1,4 +1,5 @@
 # troll-scipts
+Made with AutoHotkey (https://autohotkey.com/)
 
 
 Put these AutoHotkey scripts in your boss', parent's, teacher's, your worst enemy's PC. Sit back and enjoy the subtle troll
@@ -33,6 +34,7 @@ What the AutoHotkey script does
 
 4. After a few moments (5000 milliseconds), the script closes/kill itself and won't appear in the tray icons in the taskbar
 
+(default website : http://www.omfgdogs.com/)
 
 
 RECOMMENDED : Put this in the Windows 'Startup' folder
